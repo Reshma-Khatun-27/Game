@@ -1,5 +1,21 @@
 
-
+"""
+================================================================================
+                    ⚡ HARRY POTTER - THE BOY WHO LIVED ⚡
+                   Python Turtle Magical Art & Spell System
+================================================================================
+Controls:
+    - [1] or [L]       : Cast 'LUMOS MAXIMA' (Radiant Golden Light)
+    - [2] or [E]       : Cast 'EXPECTO PATRONUM' (Silver-Cyan Patronus Aura)
+    - [3] or [X]       : Cast 'EXPELLIARMUS' (Scarlet Shockwave Beam)
+    - [4] or [W]       : Cast 'WINGARDIUM LEVIOSA' (Golden Levitation Swirl)
+    - [Space]          : Magic Surge (Random Spell Burst)
+    - Left Click       : Aim & Shoot Magic Sparks from Wand Tip
+    - [S]              : Toggle Golden Snitch Flying Animation
+    - [R]              : Redraw / Reset Scene
+    - [Q] / [Escape]   : Quit
+================================================================================
+"""
 import turtle
 import math
 import random
