@@ -1,26 +1,3 @@
-"""
-================================================================================
-          🚚 STREET BITES: GOURMET FOOD TRUCK TYCOON & DRIVE 🍔
-                     Python Turtle Interactive Experience
-================================================================================
-Controls:
-    - [1] - [6]       : Cook & Serve Menu Items:
-                        [1] 🍔 Classic Gourmet Burger ($8.50)
-                        [2] 🌮 Spicy Street Taco      ($6.00)
-                        [3] 🍕 Cheesy Pizza Slice     ($5.50)
-                        [4] 🍟 Crispy Golden Fries    ($4.00)
-                        [5] 🥤 Iced Boba Tea          ($4.50)
-                        [6] 🍦 Swirl Soft Ice Cream   ($3.50)
-    - [C]             : Customize Truck Paint Theme (4 Vibrant Styles)
-    - [N]             : Toggle Night / Neon Underglow & Headlights Mode
-    - [H]             : Honk Musical Horn (La Cucaracha notes! 🎵)
-    - [D]             : Toggle Drive / Park Mode (Moving road & exhaust)
-    - [Space]         : Chef Sizzle Special (Grill burst & sparkle tip)
-    - [R]             : Reset Day & Start Fresh Shift
-    - [Left Click]    : Tap anywhere for Confetti & Sparkles!
-    - [Q] / [Escape]  : Quit Game
-================================================================================
-"""
 
 import turtle
 import time
