@@ -1,3 +1,15 @@
+"""
+================================================================================
+                    SNAKE GAME - TURTLE EDITION (WITH AI BOT)
+================================================================================
+Controls:
+    - Arrow Keys or W / A / S / D : Change snake direction (Manual Mode)
+    - Tab or T                    : Toggle AI Autoplay (Watch Snake Play Itself!)
+    - Space or P                  : Pause / Resume game
+    - R                           : Restart game after Game Over
+    - Q / Escape                  : Quit game
+================================================================================
+"""
 
 import turtle
 import time
