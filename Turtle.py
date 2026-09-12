@@ -1,9 +1,4 @@
-"""
-Garden Turtle Adventure - Shelly's Garden Tour
-A vibrant interactive Python Turtle simulation featuring a scenic garden,
-blooming flowers, a lily pond, stepping stones, and an animated turtle that
-explores autonomously or responds to player controls.
-"""
+
 
 import math
 import random
